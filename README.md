@@ -22,7 +22,7 @@
 
 I am a web developer focused on building clean, responsive and practical web applications.
 
-I have worked with **Next.js, React, Svelte, PHP, WordPress, MongoDB and MySQL**. My projects include admin dashboards, lead-generation tools, form-based applications and custom WordPress development.
+I have worked with **Next.js, React.js, Svelte, Node.js, Python (Flask), PHP, WordPress, MongoDB, and MySQL.**. My projects include admin dashboards, lead-generation tools, form-based applications and custom WordPress development.
 
 * 🚀 Building modern web applications and dashboards
 * 🔌 Published a plugin on the official WordPress repository
